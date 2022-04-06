@@ -1,0 +1,30 @@
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電網實習\Server\obj\Debug\1.csprojAssemblyReference.cache
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電網實習\Server\obj\Debug\_1.Form1.resources
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電網實習\Server\obj\Debug\_1.Properties.Resources.resources
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電網實習\Server\obj\Debug\1.csproj.GenerateResource.cache
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電網實習\Server\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電網實習\Server\bin\Debug\1.exe.config
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電網實習\Server\bin\Debug\1.exe
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電網實習\Server\bin\Debug\1.pdb
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電網實習\Server\obj\Debug\1.exe
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電網實習\Server\obj\Debug\1.pdb
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電腦網路實習\Server\bin\Debug\1.exe.config
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電腦網路實習\Server\bin\Debug\1.exe
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電腦網路實習\Server\bin\Debug\1.pdb
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電腦網路實習\Server\obj\Debug\1.csprojAssemblyReference.cache
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電腦網路實習\Server\obj\Debug\_1.Form1.resources
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電腦網路實習\Server\obj\Debug\_1.Properties.Resources.resources
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電腦網路實習\Server\obj\Debug\1.csproj.GenerateResource.cache
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電腦網路實習\Server\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電腦網路實習\Server\obj\Debug\1.exe
+C:\Users\miya\OneDrive\桌面\NTPU\大二\電腦網路實習\Server\obj\Debug\1.pdb
+C:\Users\Shiuan Wan\Downloads\Server\Server\bin\Debug\1.exe.config
+C:\Users\Shiuan Wan\Downloads\Server\Server\bin\Debug\1.exe
+C:\Users\Shiuan Wan\Downloads\Server\Server\bin\Debug\1.pdb
+C:\Users\Shiuan Wan\Downloads\Server\Server\obj\Debug\1.csproj.AssemblyReference.cache
+C:\Users\Shiuan Wan\Downloads\Server\Server\obj\Debug\_1.Form1.resources
+C:\Users\Shiuan Wan\Downloads\Server\Server\obj\Debug\_1.Properties.Resources.resources
+C:\Users\Shiuan Wan\Downloads\Server\Server\obj\Debug\1.csproj.GenerateResource.cache
+C:\Users\Shiuan Wan\Downloads\Server\Server\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\Shiuan Wan\Downloads\Server\Server\obj\Debug\1.exe
+C:\Users\Shiuan Wan\Downloads\Server\Server\obj\Debug\1.pdb
